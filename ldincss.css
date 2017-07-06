@@ -1,0 +1,152 @@
+
+/*diemention*/
+body{
+margin: 0px;
+padding: 0px;
+
+}
+/*header*/
+.head{
+height: 11vh;
+background-color: #343434;
+
+overflow: hidden;
+}
+.logo{
+width:20%; 
+height: 100%;
+padding-left: 300px;
+float: left;
+padding-top: 2px;
+color: white;
+}
+.logfrom {
+width: 54%;
+height: 100%;
+float: right;
+}
+
+.logfrom td{
+
+padding-top: 10px;
+
+
+} 
+.logfrom a{
+color: #EEEEEE;
+text-decoration: none;
+font-family: 'Zilla Slab', serif;
+font-family: 'Source Sans Pro', sans-serif;
+font-size: 13px;
+}
+.sb{
+
+border-radius: 3px;
+border: 0px;
+padding-left: 8px;
+padding-right: 8px;
+padding-top: 2.5px;
+padding-bottom: 3.5px;
+margin-left: 4px;
+font-weight: bolder;
+font-family: 'Open Sans', sans-serif;
+font-size: 11px;
+}
+/*body*/
+.content{
+height: 65vh;
+padding-top: 10px;
+padding-bottom: 50px;
+/*background: green;*/
+/*position: relative;*/
+background-image: url(19401402_1337309053054486_968742265_o.jpg);
+background-size: cover;
+}
+
+.middel{
+background: #EEEEEE;
+width: 25%;
+margin-left: 37.5%;
+padding: 20px;
+margin-top: 9px; 
+
+}
+.inp{
+
+padding-left : 145px;
+padding-bottom: 5px;
+}
+.joinb {
+padding-left: 132px;
+padding-right: 132px;
+padding-top: 6px;
+padding-bottom: 6px;
+background: #F5D22E;
+border: 2px solid #E0CB4B ;
+border-radius: 3px;
+font-family: Source Sans Pro, Helvetica, Arial, Noto Naskh Arabic, Noto Sans Thai, 
+    Droid Arabic Naskh, Geeza Pro,
+   Simplified Arabic, Thonburi, Dokchampa, Droid Sans Thai, Hiragino Sans GB W3,
+   Heiti SC, Segoe UI, Microsoft Yahei, Droid Sans Fallback, -apple-system, '.SFNSDisplay-Regular', sans-serif;
+
+font-weight: bold;
+}
+.hp2{
+font-weight: normal;
+text-align: center;
+font-family: Source Sans Pro, Helvetica, Arial, Noto Naskh Arabic, 
+Noto Sans Thai, Droid Arabic Naskh, Geeza Pro, Simplified Arabic, 
+Thonburi, Dokchampa, Droid Sans Thai, 
+Hiragino Sans GB W3, Heiti SC, Segoe UI, Microsoft Yahei, Droid Sans Fallback,
+ -apple-system, '.SFNSDisplay-Regular', sans-serif;
+
+}
+.hp3{
+
+text-align: center;
+font-weight: normal;
+    font-family: Source Sans Pro, Helvetica, Arial, Noto Naskh Arabic, Noto Sans Thai, 
+    Droid Arabic Naskh, Geeza Pro,
+   Simplified Arabic, Thonburi, Dokchampa, Droid Sans Thai, Hiragino Sans GB W3,
+   Heiti SC, Segoe UI, Microsoft Yahei, Droid Sans Fallback, -apple-system, '.SFNSDisplay-Regular', sans-serif;
+
+}
+
+.middel a  {
+text-decoration: none;
+color: black;
+font-weight: bold;
+}
+
+.middel form{
+
+font-size: 15px;
+font-weight: normal;
+    font-family: Source Sans Pro, Helvetica, Arial, Noto Naskh Arabic, Noto Sans Thai, 
+    Droid Arabic Naskh, Geeza Pro,
+   Simplified Arabic, Thonburi, Dokchampa, Droid Sans Thai, Hiragino Sans GB W3,
+   Heiti SC, Segoe UI, Microsoft Yahei, Droid Sans Fallback, -apple-system, '.SFNSDisplay-Regular', sans-serif;
+
+}
+/*for footer*/
+.foot{
+height: 14vh;
+font-family: 'Open Sans', sans-serif;
+padding-top:5px;
+background-color: #343434;
+
+}
+.foot form{
+
+text-align: center;
+padding-left: 27%;
+padding-top: 15px;
+color: white;
+font-size: 13px;
+}
+.foot form a{
+
+text-decoration: none;
+color: #827be9;
+font-size:14px;
+}
